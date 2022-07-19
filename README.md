@@ -14,7 +14,7 @@ Este Sistema Web foi idealizado e criado com o objetivo de facilitar as buscas e
 
 - 👦🏽 Gustavo Antunes
 - 👦🏽 Lucas Silva
-- 👦🏽 Eduardo Sousa
+- 👦🏽 Eduardo Sousa = https://github.com/DuS0usa
 - 👦🏽 Pablo Santos
 - 👦🏽 Leonardo Piatã
 
