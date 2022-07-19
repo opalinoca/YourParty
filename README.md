@@ -6,17 +6,17 @@ Este Sistema Web foi idealizado e criado com o objetivo de facilitar as buscas e
 
  #### FRONT-END:
 
-- 👩🏽 Aline Vieira 
-- 👦🏽 Davi Maciel 
-- 👦🏽 Juan Jarbas 
+- 👩🏽 Aline Vieira = https://github.com/opalinoca
+- 👦🏽 Davi Maciel = https://github.com/Davi-Maciel6912
+- 👦🏽 Juan Jarbas = https://github.com/juanjarbas
 
 #### BACK-END:
 
-- 👦🏽 Gustavo Antunes
-- 👦🏽 Lucas Silva
+- 👦🏽 Gustavo Antunes = https://github.com/antunesGustavo
+- 👦🏽 Lucas Silva = https://github.com/LucasSilvaLLima
 - 👦🏽 Eduardo Sousa = https://github.com/DuS0usa
-- 👦🏽 Pablo Santos
-- 👦🏽 Leonardo Piatã
+- 👦🏽 Pablo Santos = https://github.com/pabloroludp
+- 👦🏽 Leonardo Piatã = https://github.com/Leonardo014
 
 ## 📌 Tecnologias utilizadas
  - Front-end: HTML5, CSS3, SCSS e Javascript
