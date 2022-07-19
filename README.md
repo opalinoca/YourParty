@@ -1,4 +1,4 @@
-🎉 YourParty - Sua melhor festa é aqui
+##### 🎉 YourParty - Sua festa dos sonhos
 Sistema Web cujo objetivo é facilitar a busca e o orçamento de serviços para eventos e festas, facilitando também, o contato entre Empresa e Cliente.
 
 
